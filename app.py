@@ -3,7 +3,7 @@ import streamlit as st
 
 # 🔑 PUT YOUR API KEY HERE
 client = OpenAI(
-    api_key="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",
+    api_key="your api key",
     base_url="https://openrouter.ai/api/v1"
 )
 
